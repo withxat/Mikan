@@ -1,4 +1,4 @@
-# mikan 🍊
+# Mikan 🍊
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
@@ -8,12 +8,12 @@ A warm, minimal blog template built with Astro, Tailwind CSS, and MDX. A little 
 
 Adapted from [Xat](https://github.com/withxat)'s personal website, with an orange palette, a paper edge, and gentle interactions.
 
-![mikan desktop preview](./docs/preview.png)
+![Mikan desktop preview](./docs/preview.png)
 
 <details>
 <summary>Mobile dark mode</summary>
 
-<img src="./docs/mobile-dark.png" alt="mikan in dark mode on a narrow screen" width="320" />
+<img src="./docs/mobile-dark.png" alt="Mikan in dark mode on a narrow screen" width="320" />
 
 </details>
 
@@ -192,7 +192,7 @@ public/                 Files copied directly to the build
 
 ## Author
 
-**mikan** © [Xat](https://github.com/withxat).<br>
-Authored and maintained by Xat with help from contributors ([list](https://github.com/withxat/mikan/graphs/contributors)).
+**Mikan** © [Xat](https://github.com/withxat), released under the [MIT](LICENSE) License.<br>
+Authored and maintained by Xat with help from contributors ([list](https://github.com/withxat/Mikan/graphs/contributors)).
 
-> [Blog](https://blog.xat.sh) · GitHub [@withxat](https://github.com/withxat) · Telegram [@withxat](https://t.me/withxat) · X [@withxat](https://x.com/withxat) · Email [i@xat.sh](mailto:i@xat.sh)
+> [Blog](https://xat.sh) · GitHub [@withxat](https://github.com/withxat) · Telegram [@withxat](https://t.me/withxat) · X [@withxat](https://x.com/withxat) · Email [i@xat.sh](mailto:i@xat.sh)

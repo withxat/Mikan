@@ -5,6 +5,7 @@
 	"private": true,
 	"packageManager": "pnpm@10.33.0",
 	"description": "A warm, minimal Astro blog starter.",
+	"license": "MIT",
 	"engines": {
 		"node": ">=22.18.0"
 	},

@@ -1,4 +1,4 @@
-# mikan 🍊
+# Mikan 🍊
 
 [English](README.md) | [简体中文](README.zh-CN.md)
 
@@ -8,12 +8,12 @@
 
 从 [Xat](https://github.com/withxat) 的个人网站整理而来，保留了橙色主题、纸张边缘和轻巧的交互。
 
-![mikan 桌面预览](./docs/preview.png)
+![Mikan 桌面预览](./docs/preview.png)
 
 <details>
 <summary>移动端深色模式</summary>
 
-<img src="./docs/mobile-dark.png" alt="mikan 在窄屏下的深色模式" width="320" />
+<img src="./docs/mobile-dark.png" alt="Mikan 在窄屏下的深色模式" width="320" />
 
 </details>
 
@@ -192,7 +192,7 @@ public/                 直接复制到构建产物的静态文件
 
 ## 作者
 
-**mikan** © [Xat](https://github.com/withxat)。<br>
-由 Xat 与贡献者共同维护（[贡献者列表](https://github.com/withxat/mikan/graphs/contributors)）。
+**Mikan** © [Xat](https://github.com/withxat)，基于 [MIT](LICENSE) 许可证发布。<br>
+由 Xat 与贡献者共同维护（[贡献者列表](https://github.com/withxat/Mikan/graphs/contributors)）。
 
-> [Blog](https://blog.xat.sh) · GitHub [@withxat](https://github.com/withxat) · Telegram [@withxat](https://t.me/withxat) · X [@withxat](https://x.com/withxat) · Email [i@xat.sh](mailto:i@xat.sh)
+> [Blog](https://xat.sh) · GitHub [@withxat](https://github.com/withxat) · Telegram [@withxat](https://t.me/withxat) · X [@withxat](https://x.com/withxat) · Email [i@xat.sh](mailto:i@xat.sh)
